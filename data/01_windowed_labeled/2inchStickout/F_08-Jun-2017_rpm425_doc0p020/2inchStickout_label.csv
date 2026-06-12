@@ -1,0 +1,5 @@
+window,label,is_chatter,A_time,segment_path
+0,no_chatter,False,0.013577350410454546,..\data\01_windowed_labeled\2inchStickout\F_08-Jun-2017_rpm425_doc0p020\F_08-Jun-2017_rpm425_doc0p020_window_0000.npz
+1,no_chatter,False,0.03403148479556489,..\data\01_windowed_labeled\2inchStickout\F_08-Jun-2017_rpm425_doc0p020\F_08-Jun-2017_rpm425_doc0p020_window_0001.npz
+2,no_chatter,False,0.10792822815978456,..\data\01_windowed_labeled\2inchStickout\F_08-Jun-2017_rpm425_doc0p020\F_08-Jun-2017_rpm425_doc0p020_window_0002.npz
+3,no_chatter,False,0.13592998274998855,..\data\01_windowed_labeled\2inchStickout\F_08-Jun-2017_rpm425_doc0p020\F_08-Jun-2017_rpm425_doc0p020_window_0003.npz
