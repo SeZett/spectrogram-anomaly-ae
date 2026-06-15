@@ -1,7 +1,7 @@
 window,label,is_chatter,A_time,segment_path
-0,no_chatter,False,0.021147668526930546,..\data\01_windowed_labeled\2inchStickout\F_08-Jun-2017_smoothingCut2_noChatter\F_08-Jun-2017_smoothingCut2_noChatter_window_0000.npz
-1,no_chatter,False,0.07493547407880283,..\data\01_windowed_labeled\2inchStickout\F_08-Jun-2017_smoothingCut2_noChatter\F_08-Jun-2017_smoothingCut2_noChatter_window_0001.npz
-2,no_chatter,False,0.04729000273747141,..\data\01_windowed_labeled\2inchStickout\F_08-Jun-2017_smoothingCut2_noChatter\F_08-Jun-2017_smoothingCut2_noChatter_window_0002.npz
-3,no_chatter,False,0.044797870379287896,..\data\01_windowed_labeled\2inchStickout\F_08-Jun-2017_smoothingCut2_noChatter\F_08-Jun-2017_smoothingCut2_noChatter_window_0003.npz
-4,no_chatter,False,0.04525030152169612,..\data\01_windowed_labeled\2inchStickout\F_08-Jun-2017_smoothingCut2_noChatter\F_08-Jun-2017_smoothingCut2_noChatter_window_0004.npz
-5,no_chatter,False,0.04810311287470511,..\data\01_windowed_labeled\2inchStickout\F_08-Jun-2017_smoothingCut2_noChatter\F_08-Jun-2017_smoothingCut2_noChatter_window_0005.npz
+0,no_chatter,False,0.021147668526930546,..\data\01_windowed_labeled_V3\2inchStickout\F_08-Jun-2017_smoothingCut2_noChatter\F_08-Jun-2017_smoothingCut2_noChatter_window_0000.npz
+1,no_chatter,False,0.07493547407880283,..\data\01_windowed_labeled_V3\2inchStickout\F_08-Jun-2017_smoothingCut2_noChatter\F_08-Jun-2017_smoothingCut2_noChatter_window_0001.npz
+2,no_chatter,False,0.04729000273747141,..\data\01_windowed_labeled_V3\2inchStickout\F_08-Jun-2017_smoothingCut2_noChatter\F_08-Jun-2017_smoothingCut2_noChatter_window_0002.npz
+3,no_chatter,False,0.044797870379287896,..\data\01_windowed_labeled_V3\2inchStickout\F_08-Jun-2017_smoothingCut2_noChatter\F_08-Jun-2017_smoothingCut2_noChatter_window_0003.npz
+4,no_chatter,False,0.04525030152169612,..\data\01_windowed_labeled_V3\2inchStickout\F_08-Jun-2017_smoothingCut2_noChatter\F_08-Jun-2017_smoothingCut2_noChatter_window_0004.npz
+5,no_chatter,False,0.04810311287470511,..\data\01_windowed_labeled_V3\2inchStickout\F_08-Jun-2017_smoothingCut2_noChatter\F_08-Jun-2017_smoothingCut2_noChatter_window_0005.npz

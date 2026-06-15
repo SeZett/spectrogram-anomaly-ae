@@ -1,6 +1,6 @@
 window,label,is_chatter,A_time,segment_path
-0,no_chatter,False,0.0296343405310511,..\data\01_windowed_labeled\2p5inchStickout\F_12-Jun-2017_rpm570_doc0p012\F_12-Jun-2017_rpm570_doc0p012_window_0000.npz
-1,chatter,True,0.06560578511266361,..\data\01_windowed_labeled\2p5inchStickout\F_12-Jun-2017_rpm570_doc0p012\F_12-Jun-2017_rpm570_doc0p012_window_0001.npz
-2,no_chatter,False,0.056327885528093986,..\data\01_windowed_labeled\2p5inchStickout\F_12-Jun-2017_rpm570_doc0p012\F_12-Jun-2017_rpm570_doc0p012_window_0002.npz
-3,chatter,True,0.04836307361036006,..\data\01_windowed_labeled\2p5inchStickout\F_12-Jun-2017_rpm570_doc0p012\F_12-Jun-2017_rpm570_doc0p012_window_0003.npz
-4,no_chatter,False,0.049815112057888224,..\data\01_windowed_labeled\2p5inchStickout\F_12-Jun-2017_rpm570_doc0p012\F_12-Jun-2017_rpm570_doc0p012_window_0004.npz
+0,no_chatter,False,0.0296343405310511,..\data\01_windowed_labeled_V3\2p5inchStickout\F_12-Jun-2017_rpm570_doc0p012\F_12-Jun-2017_rpm570_doc0p012_window_0000.npz
+1,chatter,True,0.06560578511266361,..\data\01_windowed_labeled_V3\2p5inchStickout\F_12-Jun-2017_rpm570_doc0p012\F_12-Jun-2017_rpm570_doc0p012_window_0001.npz
+2,no_chatter,False,0.056327885528093986,..\data\01_windowed_labeled_V3\2p5inchStickout\F_12-Jun-2017_rpm570_doc0p012\F_12-Jun-2017_rpm570_doc0p012_window_0002.npz
+3,no_chatter,False,0.04836307361036006,..\data\01_windowed_labeled_V3\2p5inchStickout\F_12-Jun-2017_rpm570_doc0p012\F_12-Jun-2017_rpm570_doc0p012_window_0003.npz
+4,no_chatter,False,0.049815112057888224,..\data\01_windowed_labeled_V3\2p5inchStickout\F_12-Jun-2017_rpm570_doc0p012\F_12-Jun-2017_rpm570_doc0p012_window_0004.npz

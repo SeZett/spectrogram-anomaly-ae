@@ -1,3 +1,3 @@
 window,label,is_chatter,A_time,segment_path
-0,no_chatter,False,0.034085508018845474,..\data\01_windowed_labeled\4p5inchStickout\F_13-Jun-2017_rpm1030_doc0p007\F_13-Jun-2017_rpm1030_doc0p007_window_0000.npz
-1,no_chatter,False,0.05166715264771596,..\data\01_windowed_labeled\4p5inchStickout\F_13-Jun-2017_rpm1030_doc0p007\F_13-Jun-2017_rpm1030_doc0p007_window_0001.npz
+0,no_chatter,False,0.034085508018845474,..\data\01_windowed_labeled_V3\4p5inchStickout\F_13-Jun-2017_rpm1030_doc0p007\F_13-Jun-2017_rpm1030_doc0p007_window_0000.npz
+1,no_chatter,False,0.05166715264771596,..\data\01_windowed_labeled_V3\4p5inchStickout\F_13-Jun-2017_rpm1030_doc0p007\F_13-Jun-2017_rpm1030_doc0p007_window_0001.npz
