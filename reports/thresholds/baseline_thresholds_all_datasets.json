@@ -19,7 +19,7 @@
       "validation_recall": 1.0
     }
   },
-  "ma_dataset": {
+  "broach_dataset": {
     "one_class_svm_image_features": {
       "threshold": 15.57981948760888,
       "validation_f1": 0.76,
