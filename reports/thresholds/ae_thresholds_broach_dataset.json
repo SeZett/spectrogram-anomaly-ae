@@ -12,16 +12,16 @@
     "validation_recall": 0.4782608695652174
   },
   "ver_max": {
-    "threshold": 0.0045838868245482445,
-    "validation_f1": 0.8510638297867342,
-    "validation_precision": 0.8333333333333334,
-    "validation_recall": 0.8695652173913043
+    "threshold": 0.003398982109501958,
+    "validation_f1": 0.8444444444439446,
+    "validation_precision": 0.8636363636363636,
+    "validation_recall": 0.8260869565217391
   },
   "ver_topk": {
-    "threshold": 0.003589977277442813,
-    "validation_f1": 0.8205128205123365,
-    "validation_precision": 1.0,
-    "validation_recall": 0.6956521739130435
+    "threshold": 0.0020558079704642296,
+    "validation_f1": 0.8181818181813192,
+    "validation_precision": 0.8571428571428571,
+    "validation_recall": 0.782608695652174
   },
   "maxpool_mse_3x3": {
     "threshold": 0.0030270623974502087,
