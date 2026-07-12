@@ -1,0 +1,13 @@
+\begin{tabular}{llrrrr}
+\toprule
+Method & Score & PR-AUC & F1 & Precision & Recall \\
+\midrule
+CNN-AE & Global MSE & 0.974 & 0.915 & 0.844 & 1.000 \\
+CNN-AE & Global MAE & 0.988 & 0.912 & 0.867 & 0.963 \\
+CNN-AE & SVE maximum & 0.956 & 0.931 & 0.871 & 1.000 \\
+CNN-AE & SVE top-k & 0.962 & 0.931 & 0.871 & 1.000 \\
+Isolation forest & Anomaly score & 0.997 & 0.982 & 0.964 & 1.000 \\
+One-class SVM & Anomaly score & 0.997 & 0.962 & 1.000 & 0.926 \\
+PCA reconstruction & MSE & 0.965 & 0.947 & 0.900 & 1.000 \\
+\bottomrule
+\end{tabular}
