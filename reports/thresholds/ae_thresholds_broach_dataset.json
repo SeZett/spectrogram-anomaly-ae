@@ -12,10 +12,10 @@
     "validation_recall": 0.5652173913043478
   },
   "sve_max": {
-    "threshold": 0.003437515813857317,
-    "validation_f1": 0.8260869565212391,
-    "validation_precision": 0.8260869565217391,
-    "validation_recall": 0.8260869565217391
+    "threshold": 0.0031094742007553577,
+    "validation_f1": 0.8163265306117468,
+    "validation_precision": 0.7692307692307693,
+    "validation_recall": 0.8695652173913043
   },
   "maxpool_mse_3x3": {
     "threshold": 0.0032608446199446917,

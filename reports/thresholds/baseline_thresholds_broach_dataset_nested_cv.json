@@ -1,0 +1,27 @@
+{
+  "outer_fold_1": {
+    "one_class_svm_image_features": 15.542348223152745,
+    "isolation_forest_image_features": 0.14199325320160505,
+    "pca_image_reconstruction": 0.0005199362640269101
+  },
+  "outer_fold_2": {
+    "one_class_svm_image_features": 15.592880169844507,
+    "isolation_forest_image_features": 0.1257311363627306,
+    "pca_image_reconstruction": 0.0005033609922975302
+  },
+  "outer_fold_3": {
+    "one_class_svm_image_features": 15.496653507218678,
+    "isolation_forest_image_features": 0.14045923400039928,
+    "pca_image_reconstruction": 0.0005124169401824474
+  },
+  "outer_fold_4": {
+    "one_class_svm_image_features": 15.604204228523226,
+    "isolation_forest_image_features": 0.14045923400039928,
+    "pca_image_reconstruction": 0.0006979925092309713
+  },
+  "outer_fold_5": {
+    "one_class_svm_image_features": 15.44293839648559,
+    "isolation_forest_image_features": 0.1257311363627306,
+    "pca_image_reconstruction": 0.0005124169401824474
+  }
+}
