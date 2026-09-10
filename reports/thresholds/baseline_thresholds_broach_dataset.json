@@ -6,13 +6,13 @@
     "validation_recall": 0.8260869565217391
   },
   "isolation_forest_image_features": {
-    "threshold": 0.14006711005311467,
-    "validation_f1": 0.6666666666666666,
-    "validation_precision": 0.7368421052631579,
-    "validation_recall": 0.6086956521739131
+    "threshold": 0.15247834333070054,
+    "validation_f1": 0.5925925925925926,
+    "validation_precision": 0.5161290322580645,
+    "validation_recall": 0.6956521739130435
   },
   "pca_image_reconstruction": {
-    "threshold": 0.0005033610505051911,
+    "threshold": 0.000503418268635869,
     "validation_f1": 0.8333333333333333,
     "validation_precision": 0.8,
     "validation_recall": 0.8695652173913043
