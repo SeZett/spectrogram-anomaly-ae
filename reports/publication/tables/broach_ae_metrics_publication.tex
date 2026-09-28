@@ -1,10 +1,10 @@
-\begin{tabular}{llll}
+\begin{tabular}{lcccc}
 \toprule
-score & PR-AUC [95% CI] & F1 [95% CI] & Recall [95% CI] \\
+Method & PR-AUC & F1-score & Precision & Recall \\
 \midrule
-sve_max & 0.992 [0.969, 1.000] & 0.927 [0.829, 1.000] & 0.864 [0.708, 1.000] \\
-maxpool_mse_15x15 & 0.913 [0.801, 1.000] & 0.842 [0.688, 0.945] & 0.727 [0.524, 0.895] \\
-maxpool_mse_25x25 & 0.919 [0.806, 1.000] & 0.872 [0.727, 0.971] & 0.773 [0.571, 0.944] \\
-maxpool_mse_101x101 & 0.941 [0.857, 0.992] & 0.625 [0.414, 0.800] & 0.455 [0.261, 0.667] \\
+Global MSE & 0.593 & 0.667 & 1.000 & 0.500 \\
+Global MAE & 0.465 & 0.516 & 0.889 & 0.364 \\
+SVE (5 Segments) & 0.945 & 0.909 & 0.909 & 0.909 \\
+SVE (7 Segments) & 0.979 & 0.850 & 0.944 & 0.773 \\
 \bottomrule
 \end{tabular}
