@@ -57,6 +57,15 @@ The first notebook downloads the original Mendeley dataset, extracts the raw `.m
 
 The notebook saves processed segments to `data/01_windowed_labeled_2,5s`.
 
+#### Additional Cross-Validation Experiments
+
+Additional grouped cross-validation experiments used for the turning dataset evaluation are implemented as standalone scripts:
+
+- `scripts/run_turning_bottleneck_sweep.py` performs nested grouped cross-validation across different autoencoder bottleneck dimensions.
+- `scripts/run_turning_baseline_grouped_cv.py` evaluates the classical baseline methods using the same grouped cross-validation protocol.
+
+The corresponding cross-validation utilities are implemented in `src/spectrogram_anomaly_ae/turning_cv.py`. Results from the bottleneck experiments are stored under `reports/bottleneck_sweep`.
+
 #### Windowed Data Format (`.npz`)
 
 Each file contains a single 2.5-second vibration segment:
