@@ -49,6 +49,9 @@ The experiment workflow is organized as a numbered notebook series:
 | `notebooks/05_Evaluate_AE_Scores_and_Thresholds.ipynb` | Score autoencoder reconstructions and freeze validation-selected decision thresholds. |
 | `notebooks/06a_Baseline_Comparisons_FixedDataSplit.ipynb` | Compare classical anomaly detection baselines using the same fixed train/validation/test split as the autoencoder. |
 | `notebooks/06b_Baseline_Comparisons_NestedCV.ipynb` | Compare classical anomaly detection baselines using nested cross-validation to assess performance across different data splits|
+| `notebooks/06c_Baseline_Comparisons_FixedDataSplit_RGB.ipynb` | Revised baseline comparison preserving the three-axis RGB representation (X/Y/Z) for a controlled comparison with the CNN autoencoder|
+| `notebooks/06d_Baseline_Comparisons_Nested-CV_RGB.ipynb` | Cross-validation robustness analysis of the revised three-axis RGB baseline comparison|
+
 | `notebooks/07_Baseline_Robustness_Analysis_NestedCV.ipynb` | Assess the robustness and variability of the baseline methods across different data splits using nested cross-validation. |
 | `notebooks/08_Bootstrap_CIs_and_Report_Tables.ipynb` | Compute bootstrap confidence intervals for evaluation metrics and generate summary tables for reporting. |
 | `notebooks/09_Publication_Quality_Figures_and_Tables.ipynb` | Create paper-ready PDF/SVG/PNG figures and CSV/LaTeX tables. |
