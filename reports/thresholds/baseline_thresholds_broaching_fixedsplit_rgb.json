@@ -1,0 +1,20 @@
+{
+  "one_class_svm_rgb_features": {
+    "threshold": 14.167647124064459,
+    "validation_f1": 0.7391304347826085,
+    "validation_precision": 0.7391304347826086,
+    "validation_recall": 0.7391304347826086
+  },
+  "isolation_forest_rgb_features": {
+    "threshold": 0.15229355679238754,
+    "validation_f1": 0.5555555555555556,
+    "validation_precision": 0.4838709677419355,
+    "validation_recall": 0.6521739130434783
+  },
+  "pca_rgb_reconstruction": {
+    "threshold": 0.0006681953673250973,
+    "validation_f1": 0.8444444444444444,
+    "validation_precision": 0.8636363636363636,
+    "validation_recall": 0.8260869565217391
+  }
+}
