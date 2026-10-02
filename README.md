@@ -46,13 +46,13 @@ The experiment workflow is organized as a numbered notebook series:
 | `notebooks/02_Create_Frozen_Splits_and_Manifests.ipynb` | Create deterministic train/validation/test manifests. |
 | `notebooks/03_Create_Spectrogram_Datasets.ipynb` | Generate spectrogram image datasets from the frozen manifest. |
 | `notebooks/04_Train_CNN_AE_BN16_150x100px.ipynb` | Train the main CNN autoencoder on nominal training samples. |
-| `notebooks/05_Evaluate_AE_Scores_and_Thresholds.ipynb` | Score autoencoder reconstructions and freeze validation-selected decision thresholds. |
-| `notebooks/06a_Baseline_Comparisons_FixedDataSplit.ipynb` | Compare classical anomaly detection baselines using the same fixed train/validation/test split as the autoencoder. |
-| `notebooks/06b_Baseline_Comparisons_NestedCV.ipynb` | Compare classical anomaly detection baselines using nested cross-validation to assess performance across different data splits|
-| `notebooks/06c_Baseline_Comparisons_FixedDataSplit_RGB.ipynb` | Revised baseline comparison preserving the three-axis RGB representation (X/Y/Z) for a controlled comparison with the CNN autoencoder|
-| `notebooks/06d_Baseline_Comparisons_Nested-CV_RGB.ipynb` | Cross-validation robustness analysis of the revised three-axis RGB baseline comparison|
+| `notebooks/05_Turning_AE_Grouped-CV.ipynb` | Evaluate the turning CNN autoencoder using run-wise grouped five-fold cross-validation with separate group-wise threshold calibration. |
+|~~`notebooks/06a_Baseline_Comparisons_FixedDataSplit.ipynb`~~ | ~~Compare classical anomaly detection baselines using the same fixed train/validation/test split as the autoencoder.~~ |
+| ~~`notebooks/06b_Baseline_Comparisons_NestedCV.ipynb`~~ | ~~Compare classical anomaly detection baselines using nested cross-validation to assess performance across different data splits~~|
+| `notebooks/06c_Broaching_RGB_Baselines_FixedSplit.ipynb` | Evaluate the three-channel RGB classical baselines on the industrial broaching dataset using the primary fixed train/validation/test split|
+| `notebooks/06d_Baseline_Comparisons_Nested-CV_RGB.ipynb` | Evaluate the three-channel RGB classical baselines on the public turning dataset using the same run-wise grouped five-fold cross-validation protocol as the CNN autoencoder.|
 
-| `notebooks/07_Baseline_Robustness_Analysis_NestedCV.ipynb` | Assess the robustness and variability of the baseline methods across different data splits using nested cross-validation. |
+| ~~`notebooks/07_Baseline_Robustness_Analysis_NestedCV.ipynb~`~~ | ~~Assess the robustness and variability of the baseline methods across different data splits using nested cross-validation.~~ |
 | `notebooks/08_Bootstrap_CIs_and_Report_Tables.ipynb` | Compute bootstrap confidence intervals for evaluation metrics and generate summary tables for reporting. |
 | `notebooks/09_Publication_Quality_Figures_and_Tables.ipynb` | Create paper-ready PDF/SVG/PNG figures and CSV/LaTeX tables. |
 
