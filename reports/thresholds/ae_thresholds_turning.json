@@ -12,15 +12,15 @@
     "validation_recall": 0.9705882352941176
   },
   "sve_max": {
-    "threshold": 0.0037520311307162046,
-    "validation_f1": 0.8985507246376812,
-    "validation_precision": 0.8857142857142857,
-    "validation_recall": 0.9117647058823529
-  },
-  "sve_topk": {
-    "threshold": 0.00250825472176075,
+    "threshold": 0.002774026244878769,
     "validation_f1": 0.9295774647887325,
     "validation_precision": 0.8918918918918919,
     "validation_recall": 0.9705882352941176
+  },
+  "sve_topk": {
+    "threshold": 0.002082525286823511,
+    "validation_f1": 0.9315068493150686,
+    "validation_precision": 0.8717948717948718,
+    "validation_recall": 1.0
   }
 }

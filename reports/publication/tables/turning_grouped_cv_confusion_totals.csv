@@ -1,0 +1,8 @@
+Method,TN,FP,FN,TP
+CNN-AE Global MSE,564,26,16,45
+CNN-AE Global MAE,563,27,15,46
+CNN-AE SVE Max,558,32,18,43
+CNN-AE SVE Top-k,562,28,17,44
+One-Class SVM,562,28,16,45
+Isolation Forest,582,8,17,44
+PCA Reconstruction,558,32,17,44

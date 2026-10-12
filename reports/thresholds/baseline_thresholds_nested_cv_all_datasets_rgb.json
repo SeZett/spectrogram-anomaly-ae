@@ -1,0 +1,56 @@
+{
+  "turning": {
+    "outer_fold_1": {
+      "one_class_svm_rgb_features": 0.3238790363876737,
+      "isolation_forest_rgb_features": 0.039357110454330546,
+      "pca_rgb_reconstruction": 0.0015356983058154583
+    },
+    "outer_fold_2": {
+      "one_class_svm_rgb_features": 0.2586448038699759,
+      "isolation_forest_rgb_features": 0.03371014085975843,
+      "pca_rgb_reconstruction": 0.001474004820920527
+    },
+    "outer_fold_3": {
+      "one_class_svm_rgb_features": 0.2586448038699759,
+      "isolation_forest_rgb_features": 0.041995294170306896,
+      "pca_rgb_reconstruction": 0.001474004820920527
+    },
+    "outer_fold_4": {
+      "one_class_svm_rgb_features": 0.2586448038699759,
+      "isolation_forest_rgb_features": 0.03371014085975843,
+      "pca_rgb_reconstruction": 0.0014880832750350237
+    },
+    "outer_fold_5": {
+      "one_class_svm_rgb_features": 0.23508345292274735,
+      "isolation_forest_rgb_features": 0.0014710403159232666,
+      "pca_rgb_reconstruction": 0.001474004820920527
+    }
+  },
+  "broach_dataset": {
+    "outer_fold_1": {
+      "one_class_svm_rgb_features": 14.173199143106533,
+      "isolation_forest_rgb_features": 0.13612200018782716,
+      "pca_rgb_reconstruction": 0.0006591792916879058
+    },
+    "outer_fold_2": {
+      "one_class_svm_rgb_features": 14.167120871673514,
+      "isolation_forest_rgb_features": 0.1313198230121193,
+      "pca_rgb_reconstruction": 0.0006003633025102317
+    },
+    "outer_fold_3": {
+      "one_class_svm_rgb_features": 14.148269407483387,
+      "isolation_forest_rgb_features": 0.1372092948062904,
+      "pca_rgb_reconstruction": 0.0006284041446633637
+    },
+    "outer_fold_4": {
+      "one_class_svm_rgb_features": 14.167647124064459,
+      "isolation_forest_rgb_features": 0.13633613837055758,
+      "pca_rgb_reconstruction": 0.0008457482908852398
+    },
+    "outer_fold_5": {
+      "one_class_svm_rgb_features": 14.110718991050318,
+      "isolation_forest_rgb_features": 0.1372092948062904,
+      "pca_rgb_reconstruction": 0.0006003633025102317
+    }
+  }
+}

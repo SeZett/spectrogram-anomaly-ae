@@ -1,0 +1,13 @@
+\begin{tabular}{lrrrrrrrr}
+\toprule
+Method & pr_auc_mean & pr_auc_std & f1_mean & f1_std & precision_mean & precision_std & recall_mean & recall_std \\
+\midrule
+CNN-AE Global MAE & 0.813 & 0.202 & 0.656 & 0.211 & 0.651 & 0.189 & 0.749 & 0.319 \\
+CNN-AE Global MSE & 0.797 & 0.210 & 0.655 & 0.201 & 0.692 & 0.181 & 0.735 & 0.330 \\
+CNN-AE SVE Max & 0.754 & 0.207 & 0.604 & 0.184 & 0.632 & 0.194 & 0.700 & 0.334 \\
+CNN-AE SVE Top-k & 0.768 & 0.227 & 0.633 & 0.199 & 0.689 & 0.208 & 0.720 & 0.344 \\
+Isolation Forest & 0.882 & 0.138 & 0.747 & 0.193 & 0.879 & 0.132 & 0.716 & 0.279 \\
+One-Class SVM & 0.754 & 0.172 & 0.647 & 0.169 & 0.702 & 0.231 & 0.742 & 0.315 \\
+PCA Reconstruction & 0.724 & 0.192 & 0.614 & 0.165 & 0.661 & 0.234 & 0.709 & 0.308 \\
+\bottomrule
+\end{tabular}
