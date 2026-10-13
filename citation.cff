@@ -3,6 +3,9 @@ title: "autoencoder-anomaly-detection"
 authors:
   - family-names: Zeleny
     given-names: Sebastian
+    affiliation:
+      Forst Technologie GmbH & Co. KG;
+    orcid: https://orcid.org/0009-0002-5888-4892
   - family-names: Gawron
     given-names: Christian
     affiliation: "FH Südwestfalen"
