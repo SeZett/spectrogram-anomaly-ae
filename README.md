@@ -4,6 +4,13 @@ The workflow is implemented as a series of numbered Jupyter notebooks. Each note
 
 The repository should be viewed as a reproducible research artifact rather than a general-purpose Python package.
 
+## Publication
+The methodology implemented in this repository is described in the following publication:
+
+Zeleny, S.; Gawron, C. *Spectrogram-Based CNN Autoencoder for One-Class Anomaly Detection in Machine Tool Vibration Signals.* \
+Applied Sciences, 2026. \
+DOI: [10.3390/app162010082](https://doi.org/10.3390/app162010082)
+
 ## Dataset
 
 ### Industrial Broaching Dataset
